@@ -1,0 +1,35 @@
+{
+  "name": "lets-forget-redux-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReasonX7/lets-forget-redux-core.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReasonX7/lets-forget-redux-core/issues"
+  },
+  "homepage": "https://github.com/ReasonX7/lets-forget-redux-core#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "corejs": "^1.0.0",
+    "eslint": "^7.12.1",
+    "eslint-config-standard": "^16.0.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
+    "jest": "^26.6.3",
+    "webpack": "^5.4.0"
+  }
+}
